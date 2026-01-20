@@ -129,6 +129,8 @@ Create an automation for the `What's for lunch tomorrow` voice command. Note, th
 
 Say `Ok Google, what's for lunch tomorrow` and see if it's the answer you expect.
 
+<video src="recording.mp4" width="1000">
+
 ## Tweaks
 ### Use Gemini for TTS
 Install https://www.home-assistant.io/integrations/google_generative_ai_conversation/
