@@ -129,7 +129,9 @@ Create an automation for the `What's for lunch tomorrow` voice command. Note, th
 
 Say `Ok Google, what's for lunch tomorrow` and see if it's the answer you expect.
 
-<video src="recording.mp4" width="1000">
+https://github.com/user-attachments/assets/10018d2a-9b6c-44ff-9498-7537abef53d9
+
+
 
 ## Tweaks
 ### Use Gemini for TTS
